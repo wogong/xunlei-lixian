@@ -111,7 +111,7 @@ https://github.com/iambus/xunlei-lixian/downloads
 
       注：密码保存的时候会加密（hash）
 
-3. 部分命令有短名字。lx d相当于lx download，lx a相当于lx add，lx l相当于lx list，lx x相当于lx list。也可以通过plugin api自己添加alias。
+3. 部分命令有短名字。lx d相当于lx download，lx a相当于lx add，lx l相当于lx list，lx x相当于lx delete。也可以通过plugin api自己添加alias。
 
 4. 使用lx download下载的文件会自动验证hash。其中ed2k和bt会做完整的hash校验。http下载只做部分校验。
 
